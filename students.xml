@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<christ>
+	<cs>
+		<stuname>Aryan agrawal</stuname>
+		<stubranch>PEM</stubranch>
+		<stucollege>St Alyosis College</stucollege>
+		<stuemail>aryan@aloysius.in</stuemail>
+	</cs>
+	<cs>
+		<stuname>Menakshi Patel</stuname>
+		<stubranch>CS</stubranch>
+		<stucollege>Loyola College</stucollege>
+		<stuemail>menakshi@loyola.in</stuemail>
+	</cs>
+	<cs>
+		<stuname>Parthiv Patel</stuname>
+		<stubranch>Bsc Chemistry</stubranch>
+		<stucollege>Christ University</stucollege>
+		<stuemail>parthiv@christ.in</stuemail>
+	</cs>
+</christ>
